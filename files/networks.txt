@@ -1,0 +1,15 @@
+Binance
+TestNet
+Network name: Smart Chain - Testnet
+New RPC URL: https://data-seed-prebsc-1-s1.binance.org:8545/
+Network id: 97
+Symbol: BNB
+URL block-explorer: https://testnet.bscscan.com
+
+Avalanche
+TestNet
+Network name: Avalanche FUJI C-Chain
+New RPC URL: https://api.avax-test.network/ext/bc/C/rpc
+Chain id: 43113
+Symbol: AVAX
+URL block-explorer: https://testnet.snowtrace.io/
