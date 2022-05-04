@@ -2,13 +2,18 @@
   "name": "cross-chain-bridge",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "ethereum-waffle": "^3.4.4",
     "ethers": "^5.6.4"
+  },
+  "devDependencies": {
+    "hardhat": "^2.9.3"
   }
 }
