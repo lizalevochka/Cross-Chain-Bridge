@@ -8,5 +8,5 @@ This is the implementation of a simple cross-chain transaction system.
 ## Framework
 - Hardhat
 
-## Librarys
+## Libraries
 - Ethers
